@@ -1,0 +1,70 @@
+# =========================
+# MacOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+out/
+
+# =========================
+# Maven
+# =========================
+target/
+
+# Maven Wrapper logs
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Quarkus
+# =========================
+.quarkus/
+
+# Dev Services
+docker-compose.yml.devservices
+
+# =========================
+# VS Code (caso utilize)
+# =========================
+.vscode/
+
+# =========================
+# Eclipse (caso utilize)
+# =========================
+.project
+.classpath
+.settings/
+
+# =========================
+# NetBeans (caso utilize)
+# =========================
+nbproject/private/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.swp
+*.swo
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+
+# =========================
+# OS generated files
+# =========================
+Thumbs.db
+Desktop.ini
